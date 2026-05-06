@@ -1,2 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=Marmarek-here&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marmarek-here&layout=compact&theme=radical)
+<img src="https://readme-img.onrender.com/api/banner?username=Marmarek-here&template=banner1&bg=dark&font=modern" alt="GitHub Stats" />
